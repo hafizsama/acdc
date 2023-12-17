@@ -1,2 +1,2 @@
-#picture1
-<img width="54" alt="image" src="https://github.com/hafizsama/acdc/assets/144501922/e8e6d695-127f-4d28-b2dc-8f85f29e38db">
+#SC
+![WhatsApp Image 2023-09-04 at 12 29 39](https://github.com/hafizsama/acdc/assets/144501922/f247ce80-1aab-4bda-85b7-2a0f940a3bee)
